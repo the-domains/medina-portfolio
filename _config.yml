@@ -1,0 +1,28 @@
+name: Medina Portfolio
+favicon: null
+layout_spectrum: 0.20384267740882933
+typography_spectrum: 0.40506324428133667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.28454297059215605
+  lightness: 0.1988760675303638
+  saturation: 0.6646764653269202
+  rhythmicContrast: 0.10622765426523983
+purpose: []
